@@ -1,0 +1,2317 @@
+[
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$j4m5cifFzsphsjyhDmkMWf$8YecWYOQX5KC1uGFS+RDPaAHxgbf2aBJr8BW+YOAoWU=",
+        "last_login": "2023-04-25T20:43:31Z",
+        "is_superuser": true,
+        "username": "SuperAdmin",
+        "first_name": "Admin",
+        "last_name": "Django",
+        "email": "meshlrd14@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-04-25T20:42:49Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$m1x0MFyyHftEdb8pJmZPd0$xj3anmz1aqWWLBOq8/Ctyr5tIQ+C6QO5eI8vYfcO1uk=",
+        "last_login": "2023-05-03T22:37:29.864Z",
+        "is_superuser": false,
+        "username": "Admin",
+        "first_name": "Meshach",
+        "last_name": "Akaka",
+        "email": "meshlrd14@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-05-03T21:34:09.723Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!VcsJYd81QHE2A1sr3ZW3gM35r4zbk0ORi64r2pzN",
+        "last_login": "2023-05-07T16:38:47.192Z",
+        "is_superuser": false,
+        "username": "jasper",
+        "first_name": "Jasper",
+        "last_name": "Akaka",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-05-04T20:34:25.674Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!X4XXqvuI3MZMn9auGrmJovi5fDFQQ3kNuBuMw6st",
+        "last_login": "2023-05-07T18:53:01.561Z",
+        "is_superuser": false,
+        "username": "meshach",
+        "first_name": "Meshach",
+        "last_name": "Akakah",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-05-05T05:29:48.685Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "duz4cht3nsrbkfdgw22xupi36ogq14ep",
+    "fields": {
+        "session_data": ".eJxVjMEOwiAQRP-FsyEtsC3r0Xu_gSwsSNVAUtqT8d9tkx70OPPezFs42tbsthYXN7O4ChCX385TeMZyAH5QuVcZalmX2ctDkSdtcqocX7fT_TvI1PK-7qwZiBOTsf1og9ozgkEED0BkkzYelNIWCUH3JuoU_ZAwEeFoO9bi8wXKaTdj:1pv2od:6BYJ7GXDPjp0TGcvO1q8wY2AcltxNBcFLxD8ez0Gy6g",
+        "expire_date": "2023-05-19T21:18:11.555Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "hgjjo9c3m1b1x64r7pv7kv2s0pxd2aq1",
+    "fields": {
+        "session_data": "eyJzb2NpYWxhY2NvdW50X3N0YXRlIjpbeyJwcm9jZXNzIjoibG9naW4iLCJzY29wZSI6IiIsImF1dGhfcGFyYW1zIjoiIn0sInRMTWZjTGpOTXpqNCJdfQ:1pufdY:i8flpvijyqqi39t1g2LGgcxwcsrHcW5yNUPYfmmSzK8",
+        "expire_date": "2023-05-18T20:33:12.983Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "sc2vhheais06r8fljk8z0lugmngiyfp8",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2pAWgZm6dN8zEIYZpGpoUtqV8e7apAvd_vfef6kQt7WErckSJlYX1avT70YxPaTugO-x3mad5rouE-ld0QdtepxZntfD_TsosZVvPSQ6I4JnsoIQBxIRDxkdMyJJ14HNBp3lHMG7zJR7hGwTeDSSDKr3BwJyOJw:1prPVb:agefIwXTi4qZ5ANoCCKHt-ZZiz28IYtlDFdquO9pUtQ",
+        "expire_date": "2023-05-09T20:43:31.643Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "xp9uzcu5incsqxgv05n4szupyf2w9zz9",
+    "fields": {
+        "session_data": ".eJxVjMEOwiAQRP-FsyEtsC3r0Xu_gSwsSNVAUtqT8d9tkx70OPPezFs42tbsthYXN7O4ChCX385TeMZyAH5QuVcZalmX2ctDkSdtcqocX7fT_TvI1PK-7qwZiBOTsf1og9ozgkEED0BkkzYelNIWCUH3JuoU_ZAwEeFoO9bi8wXKaTdj:1pvjVF:DtZYZWgnIwdi8ZdbM4B--XXqI6sFN1T4MoG7ykIoSuA",
+        "expire_date": "2023-05-21T18:53:01.565Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 6,
+    "fields": {
+        "title": "2017 Ferrari 488 GTB",
+        "slug": "2017-ferrari-488-gtb",
+        "state": "AL",
+        "city": "Montgomery",
+        "color": "White",
+        "model": "488 GTB",
+        "year": 2017,
+        "condition": "Used",
+        "price": 67000,
+        "description": "<p>The 2017 Ferrari 488 GTB is a two-seat sports car that comes in a single trim level.&nbsp;It has a&nbsp;<strong>3.9-liter V8 engine</strong>&nbsp;that produces&nbsp;<strong>661 horsepower</strong>&nbsp;and&nbsp;<strong>561 lb-ft of torque</strong><a href=\"https://www.cars.com/research/ferrari-488_gtb-2017/\" target=\"_blank\">1</a>.&nbsp;It has a seven-speed dual-clutch automatic transmission and rear-wheel drive<a href=\"https://www.cars.com/research/ferrari-488_gtb-2017/\" target=\"_blank\">1</a>.&nbsp;The car can go from&nbsp;<strong>0-60 mph in just 3 seconds</strong>1.&nbsp;The Manufacturer&rsquo;s Suggested Retail Price (MSRP) for the Ferrari 488 GTB is&nbsp;<strong>$256,550</strong>, including the $3,750 destination charge</p>",
+        "photo_1": "photo/2023/04/29/1902537082.jpg",
+        "photo_2": "photo/2023/04/29/1902537077.jpg",
+        "photo_3": "photo/2023/04/29/1902537043.jpg",
+        "photo_4": "photo/2023/04/29/1902536917.jpg",
+        "photo_5": "photo/2023/04/29/1902536891.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Alarm System,ParkAssist,Power Steering,Reversing Camera,Direct Fuel Injection,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "Sport",
+        "engine": "3.9 L twin-turbocharged",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 10000,
+        "doors": "2",
+        "passengers": 3,
+        "vin_no": "ZFF79ALA3H0223564",
+        "milage": "12-13",
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_at": "2023-04-29T12:59:30.232Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 7,
+    "fields": {
+        "title": "2018 Toyota 4Runner",
+        "slug": "2018-toyota-4runner",
+        "state": "ID",
+        "city": "Meridian",
+        "color": "Grey",
+        "model": "4Runner",
+        "year": 2018,
+        "condition": "Used",
+        "price": 42500,
+        "description": "The 2018 Toyota 4Runner is a midsize SUV available in six trim levels: SR5, SR5 Premium, TRD Off-Road, TRD Off-Road Premium, TRD Pro and Limited. All share the same 4.0-liter V6 (270 horsepower, 278 pound-feet of torque), five-speed automatic transmission and 5,000-pound tow rating. SR5 and Limited models are available in rear-wheel-drive or four-wheel-drive configurations and two- or three-row seating configurations. The remaining trim levels are 4WD-only and seat five. A low-range transfer case comes on 4WD versions of the SR5, TRD Off-Road and TRD Pro trim levels.",
+        "photo_1": "photo/2023/04/29/1893633875.jpg",
+        "photo_2": "photo/2023/04/29/1896836887.jpg",
+        "photo_3": "photo/2023/04/29/1893633884.jpg",
+        "photo_4": "photo/2023/04/29/1893633879.jpg",
+        "photo_5": "photo/2023/04/29/1896836883.jpg",
+        "features": "Cruise Control,Airbags,Air Conditioning,Seat Heating,Alarm System,ParkAssist,Power Steering,Reversing Camera,Direct Fuel Injection,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "4.0-liter V-6",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 15000,
+        "doors": "4",
+        "passengers": 7,
+        "vin_no": "ZFF79ALA3H022309",
+        "milage": "12-13",
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_at": "2023-04-29T13:23:44.931Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 8,
+    "fields": {
+        "title": "2017 Jaguar F-PACE",
+        "slug": "2017-jaguar-f-pace",
+        "state": "KY",
+        "city": "Louisville",
+        "color": "Green",
+        "model": "F-PACE",
+        "year": 2017,
+        "condition": "Used",
+        "price": 39000,
+        "description": "The 2017 Jaguar F-Pace is a compact luxury SUV that seats five passengers. There are five trim levels: base, Premium, Prestige, R-Sport and S. All but the S are available with a choice of engine (specified 20d or 35t). There is also a loaded version of the S known as the First Edition, only 275 of which are bound for the United States.</p>\r\n\r\n<p>The base F-Pace comes standard with all-wheel drive, 18-inch wheels, a power liftgate, cruise control, an automatic speed limiter, rear privacy glass, LED running lights, automatic wipers, keyless ignition and entry, a panoramic sunroof, dual-zone automatic climate control, eight-way power front seats, a 40/20/40-split folding rear seat, a tilt-and-telescoping leather-wrapped steering wheel, LuxTec simulated leather upholstery, an auto-dimming rearview mirror, InControl Protect emergency communication services, the InControl Touch 8-inch touchscreen electronics interface, Bluetooth phone and audio, and an 11-speaker Meridian sound system with a USB port, a media player interface, an auxiliary audio jack and a CD player. A rearview camera and satellite radio can be added separately.",
+        "photo_1": "photo/2023/04/29/1902932542.jpg",
+        "photo_2": "photo/2023/04/29/1902932528.jpg",
+        "photo_3": "photo/2023/04/29/1902932514.jpg",
+        "photo_4": "photo/2023/04/29/1902932503.jpg",
+        "photo_5": "",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Alarm System,ParkAssist,Power Steering,Reversing Camera,Direct Fuel Injection,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3.9 L twin-turbocharged",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 16000,
+        "doors": "4",
+        "passengers": 4,
+        "vin_no": "ZFF085A3H0224872",
+        "milage": "12-13",
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_at": "2023-04-29T13:31:56.211Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 9,
+    "fields": {
+        "title": "2018 Toyota Corolla",
+        "slug": "2018-toyota-corolla",
+        "state": "IL",
+        "city": "Naperville",
+        "color": "White",
+        "model": "Corolla",
+        "year": 2018,
+        "condition": "Used",
+        "price": 45000,
+        "description": "The 2018 Toyota Corolla is a compact car that comes in six trim levels: L, LE, LE Eco, SE, XSE and XLE.&nbsp;It has a&nbsp;<strong>responsive CVT</strong>, comfortable front seats and roomy backseat1.&nbsp;The estimated gas mileage for the 2018 Toyota Corolla is&nbsp;<strong>28-32 mpg</strong>1.&nbsp;The Corolla enters 2018 with the most minimal of changes",
+        "photo_1": "photo/2023/04/29/1900893299.jpg",
+        "photo_2": "photo/2023/04/29/1900893311.jpg",
+        "photo_3": "photo/2023/04/29/1900893319.jpg",
+        "photo_4": "photo/2023/04/29/1900893329.jpg",
+        "photo_5": "photo/2023/04/29/1900893391.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Alarm System,ParkAssist,Power Steering,Reversing Camera,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "Sport",
+        "engine": "6.2-liter gasoline V-8",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 1800,
+        "doors": "4",
+        "passengers": 4,
+        "vin_no": "MTF79GFH0224872",
+        "milage": "18",
+        "fuel_type": "Petrol",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_at": "2023-04-29T13:36:19.500Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 10,
+    "fields": {
+        "title": "2017 Ford Edge",
+        "slug": "2017-ford-edge",
+        "state": "KS",
+        "city": "Lawrence",
+        "color": "Black",
+        "model": "Edge",
+        "year": 2017,
+        "condition": "Used",
+        "price": 23000,
+        "description": "<p>The 2017 Ford Edge comes standard with antilock brakes, traction and stability control, Ford&#39;s Curve Control, front knee airbags, front side airbags, side curtain airbags, a rearview camera and hill hold assist. The standard Ford Sync system includes an emergency crash-notification feature that automatically dials 911 when paired with a compatible cellphone. Also included is Ford&#39;s MyKey, which can be used to set electronic parameters for secondary drivers such as teens or valets. All but the SE have rear parking sensors.</p>\r\n\r\n<p>Optional safety equipment includes inflatable outboard rear seat belts, blind-spot monitoring, rear cross-traffic alert, a lane departure warning and prevention system, and a forward collision warning system with brake support that pressurizes the brakes for maximum stopping power when it detects an imminent collision.</p>",
+        "photo_1": "photo/2023/04/29/1901478607_QXKJfoU.jpg",
+        "photo_2": "photo/2023/04/29/1901478618_XwZHEnO.jpg",
+        "photo_3": "photo/2023/04/29/1901478646_902vvji.jpg",
+        "photo_4": "photo/2023/04/29/1901478672.jpg",
+        "photo_5": "photo/2023/04/29/1901478687_4FICwiF.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Alarm System,ParkAssist,Power Steering,Reversing Camera,Direct Fuel Injection,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "6.2-liter gasoline V-8",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 12000,
+        "doors": "4",
+        "passengers": 7,
+        "vin_no": "ZFF79ALA3H0224872",
+        "milage": "12-13",
+        "fuel_type": "Petrol",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_at": "2023-04-29T19:10:44.116Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 11,
+    "fields": {
+        "title": "2017 Ford F-250 Super Duty",
+        "slug": "2017-ford-f-250-super-duty",
+        "state": "KY",
+        "city": "Lexinton",
+        "color": "Black",
+        "model": "F-250",
+        "year": 2017,
+        "condition": "Used",
+        "price": 23500,
+        "description": "<p>The 2017 Ford F-250 Super Duty is a full-size, heavy-duty pickup available in five trim levels: XL, XLT, Lariat, <u><strong>King Ranch and Platinum1</strong></u>. It is also offered in regular cab, extended-cab (a.k.a.&nbsp;SuperCab) and crew cab body styles1.&nbsp;The standard engine for the 2017 Ford F-250 Super Duty is a 6.2-liter gasoline V8 that produces 385 horsepower and 430 pound-feet of torque1.&nbsp;A 6.7-liter turbodiesel V8 engine that produces 440 hp and 925 lb-ft of torque is also available1</p>",
+        "photo_1": "photo/2023/04/29/1894300905.jpg",
+        "photo_2": "photo/2023/04/29/1894300894.jpg",
+        "photo_3": "photo/2023/04/29/1894300920.jpg",
+        "photo_4": "photo/2023/04/29/1900155133.jpg",
+        "photo_5": "photo/2023/04/29/1900155012.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Alarm System,ParkAssist,Power Steering,Reversing Camera,Direct Fuel Injection,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "Pickup",
+        "engine": "2.0 Turbocharged Ingenium I4",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 8000,
+        "doors": "4",
+        "passengers": 4,
+        "vin_no": "ZCX79GFH0224409",
+        "milage": "8",
+        "fuel_type": "Diesel",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_at": "2023-04-29T21:26:09.593Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "Martin",
+        "last_name": "Smith",
+        "designation": "Web Developer",
+        "photo": "photo/2023/04/25/avatar-1.jpg",
+        "facebook_link": "https://web.facebook.com/",
+        "twitter_link": "https://www.twitter.com",
+        "google_plus_link": "https://www.google.com",
+        "created_date": "2023-04-25T21:40:34.602Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 6,
+    "fields": {
+        "first_name": "Stone",
+        "last_name": "Carolyn",
+        "designation": "Content Developer",
+        "photo": "photo/2023/04/25/avatar-3.jpg",
+        "facebook_link": "https://web.facebook.com/",
+        "twitter_link": "https://www.twitter.com",
+        "google_plus_link": "https://www.google.com",
+        "created_date": "2023-04-25T21:42:27.325Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 7,
+    "fields": {
+        "first_name": "Brandon",
+        "last_name": "Miller",
+        "designation": "Group Manager",
+        "photo": "photo/2023/04/25/avatar-11.jpg",
+        "facebook_link": "https://web.facebook.com/",
+        "twitter_link": "https://www.twitter.com",
+        "google_plus_link": "https://www.google.com",
+        "created_date": "2023-04-25T21:42:58.531Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 8,
+    "fields": {
+        "first_name": "Michelle",
+        "last_name": "Nelson",
+        "designation": "CEO",
+        "photo": "photo/2023/04/25/avatar-9.jpg",
+        "facebook_link": "https://web.facebook.com/",
+        "twitter_link": "https://www.twitter.com",
+        "google_plus_link": "https://www.google.com",
+        "created_date": "2023-04-25T21:43:45.453Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 9,
+    "fields": {
+        "first_name": "Meshach",
+        "last_name": "Akaka",
+        "designation": "Support Manager",
+        "photo": "photo/2023/04/25/avatar-10.jpg",
+        "facebook_link": "https://web.facebook.com/",
+        "twitter_link": "https://www.twitter.com",
+        "google_plus_link": "https://www.google.com",
+        "created_date": "2023-04-25T21:44:27.172Z"
+    }
+},
+{
+    "model": "pages.message",
+    "pk": 1,
+    "fields": {
+        "name": "Meshach",
+        "email": "marymary@gmail.com",
+        "subject": "Inquiry",
+        "phone": "08130772189",
+        "message": "Testing the model"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 45,
+    "fields": {
+        "first_name": "Jasper",
+        "last_name": "Akaka",
+        "car_slug": "2017-ford-edge",
+        "customer_need": "I'd like to know your best price for this",
+        "car_title": "2017 Ford Edge",
+        "car_price": "$23,000",
+        "city": "Johanesberg",
+        "state": "India",
+        "email": "meshlrd14@outlook.com",
+        "phone": "(+234) 813 077 2189",
+        "message": "I want to know the best price for this car",
+        "user_id": 4,
+        "create_date": "2023-05-07T17:19:17.485Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 46,
+    "fields": {
+        "first_name": "Meshach",
+        "last_name": "Akakah",
+        "car_slug": "2017-ford-edge",
+        "customer_need": "I'd like a history report for this",
+        "car_title": "2017 Ford Edge",
+        "car_price": "$23,000",
+        "city": "India",
+        "state": "India",
+        "email": "marymary@gmail.com",
+        "phone": "(+234) 813 077 2189",
+        "message": "ok",
+        "user_id": 5,
+        "create_date": "2023-05-07T19:55:27.020Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 47,
+    "fields": {
+        "first_name": "Meshach",
+        "last_name": "Akakah",
+        "car_slug": "2017-jaguar-f-pace",
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Jaguar F-PACE",
+        "car_price": "$39,000",
+        "city": "Lagos",
+        "state": "Lagos",
+        "email": "meshlrd14@outlook.com",
+        "phone": "08130772189",
+        "message": "ok",
+        "user_id": 5,
+        "create_date": "2023-05-07T20:44:50.259Z"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "facebook",
+        "name": "Facebook Login",
+        "client_id": "226976856622031",
+        "secret": "6e378764fa5900957ac57731a129263d",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 2,
+    "fields": {
+        "provider": "google",
+        "name": "Google Login",
+        "client_id": "543831078082-6104glqai5mrfkstkbpiauqdqi8ca0s4.apps.googleusercontent.com",
+        "secret": "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",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "jasper"
+        ],
+        "provider": "facebook",
+        "uid": "7039774916037851",
+        "last_login": "2023-05-07T16:38:47.149Z",
+        "date_joined": "2023-05-04T20:34:25.702Z",
+        "extra_data": "{\"id\": \"7039774916037851\", \"name\": \"Jasper Akaka\", \"first_name\": \"Jasper\", \"last_name\": \"Akaka\"}"
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "meshach"
+        ],
+        "provider": "google",
+        "uid": "110533444587026067879",
+        "last_login": "2023-05-07T18:53:01.519Z",
+        "date_joined": "2023-05-05T05:29:48.721Z",
+        "extra_data": "{\"iss\": \"https://accounts.google.com\", \"azp\": \"543831078082-6104glqai5mrfkstkbpiauqdqi8ca0s4.apps.googleusercontent.com\", \"aud\": \"543831078082-6104glqai5mrfkstkbpiauqdqi8ca0s4.apps.googleusercontent.com\", \"sub\": \"110533444587026067879\", \"at_hash\": \"_1uIRa8VkgYZjhyCt-3eTw\", \"name\": \"Meshach Akakah\", \"picture\": \"https://lh3.googleusercontent.com/a/AGNmyxbjGdOjgiubD5AiFbhoxSlAjdDulcQJ2SIfmvJS=s96-c\", \"given_name\": \"Meshach\", \"family_name\": \"Akakah\", \"locale\": \"en\", \"iat\": 1683485582, \"exp\": 1683489182}"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2023-04-25T21:12:10.282Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Team object (3)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2023-04-25T21:12:10.302Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Team object (2)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2023-04-25T21:12:10.304Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Team object (1)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2023-04-25T21:24:48.181Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Team object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2023-04-25T21:38:03.275Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Team object (4)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2023-04-25T21:39:43.879Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Team object (4)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2023-04-25T21:40:34.612Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Team object (5)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2023-04-25T21:42:27.327Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Team object (6)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2023-04-25T21:42:58.534Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "7",
+        "object_repr": "Team object (7)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2023-04-25T21:43:45.456Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "8",
+        "object_repr": "Team object (8)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2023-04-25T21:44:27.174Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "9",
+        "object_repr": "Team object (9)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2023-04-27T21:03:05.141Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2023-04-27T21:27:59.846Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Features\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2023-04-27T21:34:10.562Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2023-04-27T21:43:14.277Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2023-04-27T21:48:10.758Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2023-04-28T22:57:37.790Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2023-04-28T22:57:37.797Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2023-04-28T22:57:37.799Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2023-04-28T22:57:37.802Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2023-04-29T11:04:03.905Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2023-04-29T12:29:56.309Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Slug\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2023-04-29T12:30:20.706Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Slug\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2023-04-29T12:30:33.673Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Slug\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2023-04-29T12:30:46.639Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Slug\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2023-04-29T12:31:00.012Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Slug\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2023-04-29T12:55:17.138Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2023-04-29T12:55:17.174Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2023-04-29T12:55:17.177Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2023-04-29T12:55:17.180Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2023-04-29T12:55:17.183Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2023-04-29T12:59:30.236Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2023-04-29T13:23:44.946Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "7",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2023-04-29T13:31:56.214Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "8",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2023-04-29T13:36:19.504Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "9",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2023-04-29T18:44:03.407Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "8",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2023-04-29T18:44:57.361Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "8",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2023-04-29T18:45:37.282Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "9",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2023-04-29T18:46:03.892Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "7",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2023-04-29T18:46:18.677Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2023-04-29T18:47:19.164Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "7",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2023-04-29T18:48:28.577Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "7",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+        "action_time": "2023-04-29T18:49:24.742Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "7",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+        "action_time": "2023-04-29T19:10:44.128Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "10",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+        "action_time": "2023-04-29T19:40:18.788Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "10",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+        "action_time": "2023-04-29T19:41:43.347Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "10",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+        "action_time": "2023-04-29T19:46:10.080Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "10",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+        "action_time": "2023-04-29T21:26:09.610Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "11",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+        "action_time": "2023-04-29T21:31:15.923Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "11",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+        "action_time": "2023-05-03T21:33:41.867Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "2",
+        "object_repr": "Admin",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+        "action_time": "2023-05-04T20:26:03.680Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+        "action_time": "2023-05-04T20:27:37.157Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+        "action_time": "2023-05-05T05:17:38.015Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+        "action_time": "2023-05-05T05:18:38.350Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google Login",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Sites\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+        "action_time": "2023-05-06T06:18:27.048Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "4",
+        "object_repr": "Contact object (4)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+        "action_time": "2023-05-06T06:18:27.059Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "3",
+        "object_repr": "Contact object (3)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+        "action_time": "2023-05-06T06:18:27.059Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "2",
+        "object_repr": "Contact object (2)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+        "action_time": "2023-05-06T06:18:27.067Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "1",
+        "object_repr": "Contact object (1)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+        "action_time": "2023-05-06T06:25:25.683Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "7",
+        "object_repr": "Contact object (7)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 60,
+    "fields": {
+        "action_time": "2023-05-06T06:25:25.691Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "6",
+        "object_repr": "Contact object (6)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 61,
+    "fields": {
+        "action_time": "2023-05-06T06:25:25.694Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "5",
+        "object_repr": "Contact object (5)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 62,
+    "fields": {
+        "action_time": "2023-05-06T06:34:12.679Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "11",
+        "object_repr": "Contact object (11)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 63,
+    "fields": {
+        "action_time": "2023-05-06T06:34:12.688Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "10",
+        "object_repr": "Contact object (10)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 64,
+    "fields": {
+        "action_time": "2023-05-06T06:34:12.691Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "9",
+        "object_repr": "Contact object (9)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 65,
+    "fields": {
+        "action_time": "2023-05-06T06:34:12.691Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "8",
+        "object_repr": "Contact object (8)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 66,
+    "fields": {
+        "action_time": "2023-05-06T07:24:03.026Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "20",
+        "object_repr": "Contact object (20)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 67,
+    "fields": {
+        "action_time": "2023-05-06T07:24:03.044Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "19",
+        "object_repr": "Contact object (19)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 68,
+    "fields": {
+        "action_time": "2023-05-06T07:24:03.047Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "18",
+        "object_repr": "Contact object (18)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 69,
+    "fields": {
+        "action_time": "2023-05-06T07:24:03.049Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "17",
+        "object_repr": "Contact object (17)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 70,
+    "fields": {
+        "action_time": "2023-05-06T07:24:03.052Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "16",
+        "object_repr": "Contact object (16)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 71,
+    "fields": {
+        "action_time": "2023-05-06T07:24:03.054Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "15",
+        "object_repr": "Contact object (15)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 72,
+    "fields": {
+        "action_time": "2023-05-06T07:24:03.057Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "14",
+        "object_repr": "Contact object (14)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 73,
+    "fields": {
+        "action_time": "2023-05-06T07:24:03.058Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "13",
+        "object_repr": "Contact object (13)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 74,
+    "fields": {
+        "action_time": "2023-05-06T07:24:03.060Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "12",
+        "object_repr": "Contact object (12)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 75,
+    "fields": {
+        "action_time": "2023-05-06T07:48:24.858Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "info@microstock.com",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Username\", \"First name\", \"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 76,
+    "fields": {
+        "action_time": "2023-05-06T18:51:56.179Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "24",
+        "object_repr": "Contact object (24)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 77,
+    "fields": {
+        "action_time": "2023-05-06T18:51:56.194Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "23",
+        "object_repr": "Contact object (23)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 78,
+    "fields": {
+        "action_time": "2023-05-06T18:51:56.195Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "22",
+        "object_repr": "Contact object (22)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 79,
+    "fields": {
+        "action_time": "2023-05-06T18:51:56.196Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "21",
+        "object_repr": "Contact object (21)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 80,
+    "fields": {
+        "action_time": "2023-05-06T18:56:34.448Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "25",
+        "object_repr": "Contact object (25)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 81,
+    "fields": {
+        "action_time": "2023-05-06T19:00:13.563Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "26",
+        "object_repr": "Contact object (26)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 82,
+    "fields": {
+        "action_time": "2023-05-06T19:32:16.125Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "27",
+        "object_repr": "Contact object (27)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 83,
+    "fields": {
+        "action_time": "2023-05-06T19:34:55.905Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "28",
+        "object_repr": "Contact object (28)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 84,
+    "fields": {
+        "action_time": "2023-05-06T21:01:33.303Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "29",
+        "object_repr": "Contact object (29)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 85,
+    "fields": {
+        "action_time": "2023-05-07T06:49:55.063Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "30",
+        "object_repr": "Contact object (30)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 86,
+    "fields": {
+        "action_time": "2023-05-07T07:00:57.679Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "32",
+        "object_repr": "Contact object (32)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 87,
+    "fields": {
+        "action_time": "2023-05-07T07:00:57.692Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "31",
+        "object_repr": "Contact object (31)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 88,
+    "fields": {
+        "action_time": "2023-05-07T07:03:08.700Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "33",
+        "object_repr": "Contact object (33)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 89,
+    "fields": {
+        "action_time": "2023-05-07T07:36:40.265Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "34",
+        "object_repr": "Contact object (34)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 90,
+    "fields": {
+        "action_time": "2023-05-07T07:37:50.712Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "SuperAdmin",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Username\", \"Email address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 91,
+    "fields": {
+        "action_time": "2023-05-07T07:39:09.603Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "35",
+        "object_repr": "Contact object (35)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 92,
+    "fields": {
+        "action_time": "2023-05-07T07:41:09.797Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "36",
+        "object_repr": "Contact object (36)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 93,
+    "fields": {
+        "action_time": "2023-05-07T08:05:04.487Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "37",
+        "object_repr": "Contact object (37)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 94,
+    "fields": {
+        "action_time": "2023-05-07T15:26:04.373Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "43",
+        "object_repr": "Contact object (43)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 95,
+    "fields": {
+        "action_time": "2023-05-07T15:26:04.407Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "42",
+        "object_repr": "Contact object (42)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 96,
+    "fields": {
+        "action_time": "2023-05-07T15:26:04.409Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "41",
+        "object_repr": "Contact object (41)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 97,
+    "fields": {
+        "action_time": "2023-05-07T15:26:04.412Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "40",
+        "object_repr": "Contact object (40)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 98,
+    "fields": {
+        "action_time": "2023-05-07T15:26:04.414Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "39",
+        "object_repr": "Contact object (39)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 99,
+    "fields": {
+        "action_time": "2023-05-07T15:26:04.415Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "38",
+        "object_repr": "Contact object (38)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 100,
+    "fields": {
+        "action_time": "2023-05-07T16:18:02.349Z",
+        "user": [
+            "SuperAdmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "44",
+        "object_repr": "Contact object (44)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+}
+]
