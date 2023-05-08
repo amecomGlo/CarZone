@@ -3,7 +3,7 @@ from pathlib import Path
 import os
 import dj_database_url
 
-BASE_DIR = Path.joinpath(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = 'django-insecure-23-ravd(^4yb(!7zzjd4flmb+cnl_wd&ynw!8+obl$-&tu$pzo'
 
@@ -131,9 +131,9 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
-STATICFILES_DIRS = os.path.join(BASE_DIR, 'CarZone/static'),
+STATICFILES_DIRS = Path.joinpath(BASE_DIR, 'CarZone/static'),
 
-MEDIA_ROOT = os.path.join(BASE_DIR,'media')
+MEDIA_ROOT = Path.joinpath(BASE_DIR,'media')
 MEDIA_URL = '/media/'
 
 
