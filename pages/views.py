@@ -69,6 +69,6 @@ def contact(request):
             )
         msg.send()
         contact.save()
-        messages.success(request,"Thank you for contacting us, we will get back to you shortly.")
-        return redirect('contacts')
+        
+        return render(request, 'contacts/inquiry.html')
     return render(request, 'contacts/contact.html')
