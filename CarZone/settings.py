@@ -1,7 +1,7 @@
 
 from pathlib import Path
 import os
-# import dj_database_url
+import dj_database_url
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -73,26 +73,26 @@ WSGI_APPLICATION = 'CarZone.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
-# DATABASES = {'default': dj_database_url.config(default='postgres://postgres:Happyzone23@@@localhost/carzone_db')}
+DATABASES = {'default': dj_database_url.config(default='postgres://postgres:Happyzone23@@@localhost/carzone_db')}
 
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'carzone_db',
-        'USER': 'postgres',
-        'PASSWORD': 'Happyzone23@@',
-        'HOST': 'localhost',
-        'PORT': '5432',
-    }
-}
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': 'carzone_db',
+#         'USER': 'postgres',
+#         'PASSWORD': 'Happyzone23@@',
+#         'HOST': 'localhost',
+#         'PORT': '5432',
+#     }
+# }
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
-    }
-}
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': BASE_DIR / 'db.sqlite3',
+#     }
+# }
 
 
 # Password validation
