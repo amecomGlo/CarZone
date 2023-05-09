@@ -1,7 +1,7 @@
 
 from pathlib import Path
 import os
-# import dj_database_url
+import dj_database_url
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -87,12 +87,12 @@ DATABASES = {
     }
 }
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
-    }
-}
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': BASE_DIR / 'db.sqlite3',
+#     }
+# }
 
 
 # Password validation

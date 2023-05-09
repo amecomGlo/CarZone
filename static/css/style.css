@@ -8386,9 +8386,9 @@ table {
         padding: 80px 0 50px;
     }
 
-    .top-header{
+    /* .top-header{
         display: none;
-    }
+    } */
 
     .sticky-header {
         top: 0;
