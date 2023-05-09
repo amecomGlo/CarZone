@@ -166,4 +166,4 @@ EMAIL_HOST_PASSWORD = 'a3d2dd5f51c497'
 EMAIL_PORT = '2525'
 
 
-STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
+# STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
