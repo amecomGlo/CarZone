@@ -7,7 +7,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = 'django-insecure-23-ravd(^4yb(!7zzjd4flmb+cnl_wd&ynw!8+obl$-&tu$pzo'
 
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['mighty-citadel-94628.herokuapp.com']
 LOGIN_REDIRECT_URL = '/'
