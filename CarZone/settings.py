@@ -1,7 +1,6 @@
 
 from pathlib import Path
 import os
-import dj_database_url
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -24,7 +23,6 @@ INSTALLED_APPS = [
     'pages',
     'accounts',
     'contacts',
-    'ckeditor',
     'multiselectfield',
     'django.contrib.humanize',
     'django.contrib.sites',
