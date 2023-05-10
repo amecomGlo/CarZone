@@ -9,7 +9,7 @@ SECRET_KEY = 'django-insecure-23-ravd(^4yb(!7zzjd4flmb+cnl_wd&ynw!8+obl$-&tu$pzo
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['mighty-citadel-94628.herokuapp.com']
+ALLOWED_HOSTS = []
 LOGIN_REDIRECT_URL = '/'
 
 
@@ -54,7 +54,7 @@ ROOT_URLCONF = 'CarZone.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['templates'],
+        'DIRS': [Path.joinpath(BASE_DIR, 'templates/')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [

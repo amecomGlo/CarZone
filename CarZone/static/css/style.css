@@ -8248,9 +8248,9 @@ table {
 }
 
 @media (max-width: 992px) {
-    .m-hide{
+    /* .m-hide{
         display: none;
-    }
+    } */
 
     .content-area {
         padding: 80px 0 50px;
