@@ -9,7 +9,7 @@ SECRET_KEY = 'django-insecure-23-ravd(^4yb(!7zzjd4flmb+cnl_wd&ynw!8+obl$-&tu$pzo
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['mighty-citadel-94628.herokuapp.com']
+ALLOWED_HOSTS = []
 LOGIN_REDIRECT_URL = '/'
 
 
@@ -76,23 +76,23 @@ WSGI_APPLICATION = 'CarZone.wsgi.application'
 # DATABASES = {'default': dj_database_url.config(default='postgres://postgres:Happyzone23@@@localhost/carapp_db')}
 
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'carapp_db',
-        'USER': 'postgres',
-        'PASSWORD': 'Happyzone23@@',
-        'HOST': 'localhost',
-        'PORT': '5432',
-    }
-}
-
 # DATABASES = {
 #     'default': {
-#         'ENGINE': 'django.db.backends.sqlite3',
-#         'NAME': BASE_DIR / 'db.sqlite3',
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': 'carapp_db',
+#         'USER': 'postgres',
+#         'PASSWORD': 'Happyzone23@@',
+#         'HOST': 'localhost',
+#         'PORT': '5432',
 #     }
 # }
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
+    }
+}
 
 
 # Password validation
@@ -149,7 +149,7 @@ MESSAGE_TAGS = {
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-SITE_ID = 1
+SITE_ID = 2
 
 # EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
 # EMAIL_HOST = 'smtp.gmail.com'

@@ -4,7 +4,6 @@ from django.db.models.signals import pre_save
 from django.utils.text import slugify
 from datetime import datetime
 from django.urls import reverse
-from ckeditor.fields import RichTextField
 from multiselectfield import MultiSelectField
 # Create your models here.
 class Car(models.Model):
@@ -84,7 +83,7 @@ class Car(models.Model):
     year = models.IntegerField(('year'),choices=year_choice)
     condition = models.CharField(max_length=100)
     price = models.IntegerField()
-    description = RichTextField()
+    description = models.TextField(blank=True, null=True)
     photo_1 = models.ImageField(upload_to='photo/%Y/%m/%d')
     photo_2 = models.ImageField(upload_to='photo/%Y/%m/%d', blank=True, null=True)
     photo_3 = models.ImageField(upload_to='photo/%Y/%m/%d', blank=True, null=True)
