@@ -8,7 +8,7 @@ SECRET_KEY = 'django-insecure-23-ravd(^4yb(!7zzjd4flmb+cnl_wd&ynw!8+obl$-&tu$pzo
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['carzone.pythonanywhere.com']
+ALLOWED_HOSTS = ['carzone.pythonanywhere.com', 'localhost:8000']
 LOGIN_REDIRECT_URL = 'home'
 
 
