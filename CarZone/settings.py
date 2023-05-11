@@ -7,8 +7,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-23-ravd(^4yb(!7zzjd4flmb+cnl_wd&ynw!8+obl$-&tu$pzo'
 
 DEBUG = True
-
-ALLOWED_HOSTS = ['carzone.pythonanywhere.com', 'localhost:8000']
+# ALLOWED_HOSTS =[]
+ALLOWED_HOSTS = ['carzone.pythonanywhere.com']
 LOGIN_REDIRECT_URL = 'home'
 
 
@@ -147,7 +147,7 @@ MESSAGE_TAGS = {
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-SITE_ID = 1
+SITE_ID = 2
 
 # EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
 # EMAIL_HOST = 'smtp.gmail.com'
