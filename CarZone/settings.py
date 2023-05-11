@@ -9,7 +9,7 @@ SECRET_KEY = 'django-insecure-23-ravd(^4yb(!7zzjd4flmb+cnl_wd&ynw!8+obl$-&tu$pzo
 DEBUG = True
 # ALLOWED_HOSTS =[]
 ALLOWED_HOSTS = ['carzone.pythonanywhere.com']
-LOGIN_REDIRECT_URL = 'home'
+LOGIN_REDIRECT_URL = 'account:dashboard'
 
 
 INSTALLED_APPS = [
